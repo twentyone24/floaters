@@ -7,7 +7,7 @@
 
 ___
 
-[![Twitter](https://img.shields.io/github/followers/twentyone24?label=twentyone24)(http://twitter.com/twentyone24)
+[![Twitter](https://img.shields.io/github/followers/twentyone24?label=twentyone24)](http://twitter.com/twentyone24)
 
 # Usage
 1. Put all your body code into a ZStack
