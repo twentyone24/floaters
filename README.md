@@ -1,7 +1,13 @@
 # floaters
 
-A description of this package.
 
+<p><h1 align="left">Popup View</h1></p>
+
+<p><h4>Toasts and popups library written with SwiftUI</h4></p>
+
+___
+
+[![Twitter](https://img.shields.io/github/followers/twentyone24?label=twentyone24)(http://twitter.com/twentyone24)
 
 # Usage
 1. Put all your body code into a ZStack
